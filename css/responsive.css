@@ -1,0 +1,32 @@
+@media(max-width: 930px){
+    header #container{
+        display: flex;
+        flex-direction: column;
+    }
+    .nomecapa{
+        width: 55% !important;
+    
+    }
+    .descricapa{
+        width: 70% !important;
+    }
+    #opcoes{
+       display: flex;
+       width: 70% !important;
+      
+    }
+    .btn{
+        width: 40% !important;
+        font-size: 10px !important;
+    
+    }
+    header #container nav a{
+        font-size: 14px !important;
+    }
+}
+@media(max-width: 398px){
+    header #container nav a{
+        display: block !important;
+        margin-bottom: 5px 0 !important;
+    }
+}
