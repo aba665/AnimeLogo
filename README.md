@@ -3,11 +3,12 @@ Recriação de um site de séries
 
 ## Intuito do projeto
 
-Esse Projeto foi criado através de um desafio que eu mesmo propus para treinar as habilidades, enfim é um projeto simples nada tão elaborado.
+O projeto foi elaborado com o intuito de terminar um desafio de um bootcamp da DIO que estava participando. 
+
 
 ## Olha só como ficou:
   
-  ![](https://github.com/aba665/Jogo_da_cobrinha/blob/main/image/Untitled ‑ Made with FlexClip.gif)
+  ![](https://github.com/aba665/AnimeLogo/blob/main/image/Untitled%20%E2%80%91%20Made%20with%20FlexClip.gif)
   
 ## Tecnologias utilizadas:
 
@@ -18,7 +19,7 @@ Esse Projeto foi criado através de um desafio que eu mesmo propus para treinar 
 
 ## link do Projetinho 
 
- [Se quiser da uma olhadinha](https://aba665.github.io/AnimeLogo/)
+ [Se quiser da uma olhadinha](https://aba665.github.io/AnimeLogo/) 👀
 
 😃 fuiii ✋ 
 
