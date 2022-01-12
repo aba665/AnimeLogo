@@ -1,8 +1,6 @@
 # AnimeLogo
 Recriação de um site de séries
 
-# Snake game 🐍
-
 ## Intuito do projeto
 
 Esse Projeto foi criado através de um desafio que eu mesmo propus para treinar as habilidades, enfim é um projeto simples nada tão elaborado.
@@ -16,6 +14,7 @@ Esse Projeto foi criado através de um desafio que eu mesmo propus para treinar 
    * HTML
    * CSS
    * JAVASCRIPT
+   * VANILLA
 
 ## link do Projetinho 
 
