@@ -1,8 +1,6 @@
 # AnimeLogo
 Recriação de um site de séries
 
-[link do site](https://aba665.github.io/AnimeLogo/)
-
 # Snake game 🐍
 
 ## Intuito do projeto
@@ -11,7 +9,7 @@ Esse Projeto foi criado através de um desafio que eu mesmo propus para treinar 
 
 ## Olha só como ficou:
   
-  ![](https://github.com/aba665/Jogo_da_cobrinha/blob/main/image/Sem%20t%C3%ADtulo%20%E2%80%91%20Made%20with%20FlexClip.gif)
+  ![](https://github.com/aba665/Jogo_da_cobrinha/blob/main/image/Untitled ‑ Made with FlexClip.gif)
   
 ## Tecnologias utilizadas:
 
@@ -21,7 +19,7 @@ Esse Projeto foi criado através de um desafio que eu mesmo propus para treinar 
 
 ## link do Projetinho 
 
- [Se quiser da uma jogadinha](https://aba665.github.io/Jogo_da_cobrinha/)
+ [Se quiser da uma olhadinha](https://aba665.github.io/AnimeLogo/)
 
 😃 fuiii ✋ 
 
