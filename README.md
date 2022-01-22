@@ -15,7 +15,6 @@ O projeto foi elaborado com o intuito de terminar um desafio de um bootcamp da D
    * HTML
    * CSS
    * JAVASCRIPT
-   * VANILLA
 
 ## link do Projetinho 
 
